@@ -11,3 +11,4 @@ Experiments with the TLSH fuzzy matching library.
       --dir DIR      Mandatory: Directory to compute and compare hashes for.
       --gauge GAUGE  Optional: Do not output scores higher than this.
 
+Information on TLSH here: https://github.com/trendmicro/tlsh 
